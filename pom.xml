@@ -6,7 +6,7 @@
 	<groupId>pl.lodz.java.budget-planning</groupId>
 	<artifactId>application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>application</name>
 	<description>Demo project for Spring Boot</description>
@@ -76,7 +76,7 @@
                                 <groupId>com.github.jsimone</groupId>
                                 <artifactId>webapp-runner</artifactId>
                                 <version>8.5.11.3</version>
-                                <destFileName>webapp-runner.jar</destFileName>
+                                <destFileName>application.jar</destFileName>
                             </artifactItem>
                         </artifactItems>
                     </configuration>
