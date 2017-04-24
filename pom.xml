@@ -6,7 +6,6 @@
 	<groupId>pl.lodz.p.java.flyweight</groupId>
 	<artifactId>project-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
 
 	<name>project-application</name>
 	<description>Demo project for Spring Boot</description>
